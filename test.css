@@ -1,0 +1,8 @@
+@keyframes test {
+  from {
+    color: red;
+  }
+  to {
+    color: blue;
+  }
+}
